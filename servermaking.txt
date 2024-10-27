@@ -1,0 +1,2 @@
+run powershell and type python -m http.server
+now open chrome and search http://localhost:8000 , you will get a directory , navigate to your file
